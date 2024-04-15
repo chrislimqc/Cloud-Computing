@@ -6,6 +6,7 @@ int main() {
     cout << "Enter your password: ";
     cin >> password;    
     // This is just anyhow one
+    // MORE
     if(password == 1234) {
         cout << "Access granted.";   
     } else {
@@ -14,3 +15,4 @@ int main() {
     return 0;
 }
         
+        X-Github-Event: push
