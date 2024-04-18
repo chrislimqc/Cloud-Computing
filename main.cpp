@@ -6,7 +6,7 @@ int main() {
     
     cout << "Enter your password: ";
     cin >> password; 
-    // 123465 is our password loasd more
+    // 12345565 is our password loasd more
     if(password == 123465) {
         cout << "Access granted.";   
     } else {
