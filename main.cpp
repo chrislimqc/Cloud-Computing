@@ -3,8 +3,10 @@ using namespace std;
 
 int main() {
     int password;
+    
     cout << "Enter your password: ";
     cin >> password; 
+    // 1234 is our password
     if(password == 1234) {
         cout << "Access granted.";   
     } else {
@@ -12,5 +14,4 @@ int main() {
     }    
     return 0;
 }
-        
-        X-Github-Event: push
+    
